@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  background-image: radial-gradient(ellipse farthest-corner at center top, #000d4d 0%, #000105 100%);
+  cursor: move;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+}
